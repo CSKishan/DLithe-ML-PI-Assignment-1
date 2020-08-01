@@ -27,7 +27,7 @@ submitted in classroom as a reponse to this assignment.
 
 #Importing the csv file
 import pandas as pd
-data=pd.read_csv(r'D:\Study\COVID-19\Machine Learning\DLithe\Datasets\Breast_Cancer.csv')
+data=pd.read_csv('Breast_Cancer.csv')
 
 #Diagnosis: M-Malignant, B-Benign
 
